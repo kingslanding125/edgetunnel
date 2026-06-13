@@ -1,5 +1,5 @@
-name = "yomi" # todo
-#name = "yomi" # todo
+name = "edgetunnel" # todo
+#name = "edgetunnel" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
 #main = "test/worker/worker-connect-test.js"
