@@ -1,5 +1,5 @@
-name = "cf-worker-ws-dev-0415" # todo
-#name = "cf-worker-connect-test" # todo
+name = "yomi" # todo
+#name = "yomi" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
 #main = "test/worker/worker-connect-test.js"
